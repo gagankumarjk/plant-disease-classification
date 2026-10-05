@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.conda/
+.env
+.vscode/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
